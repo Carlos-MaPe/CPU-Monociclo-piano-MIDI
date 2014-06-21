@@ -6,6 +6,6 @@ Proyecto libre para Diseño de Procesadores 2014
    
       
 Realizamos un vídeo con la presentación del proyecto:
-https://www.dropbox.com/s/zu324kxx0j3vo2b/Presentacion.wmv
+[Video](https://www.dropbox.com/s/zu324kxx0j3vo2b/Presentacion.wmv)
 
-El proyecto ha sido desarrollado por Sara Báez y Carlos Martín
+El proyecto ha sido desarrollado por [Sara Báez](https://github.com/Syrka) y [Carlos Martín](https://github.com/Carlos-MaPe)
