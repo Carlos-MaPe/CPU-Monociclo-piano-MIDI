@@ -1,0 +1,16 @@
+module Clk_generator(input clk,
+							input reset,
+							input [7:0] port,
+							output [51:0] new_rate,
+							);
+							
+always@(port)
+begin
+    case(port)
+    0000000  :  new_rate <=  0;
+ 
+	default	:
+		   new_rate		<=		0		;
+	endcase
+end					
+endmodule
